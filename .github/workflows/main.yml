@@ -27,7 +27,7 @@ jobs:
         uses: goanpeca/setup-miniconda@v1.1.2
         with:
           environment-file: environment.yml
-          activate-environment: heart_cells_in_action
+          activate-environment: comphy-site
           python-version: 3.7
           auto-activate-base: false
 
