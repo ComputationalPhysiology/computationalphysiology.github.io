@@ -22,6 +22,4 @@ We also have our own channel at [anaconda](https://anaconda.org/ComPhy)
 
 ## Where are we located
 
-We are located just outside Oslo, the capital of Norway at a place called Fornebu, but we are planning of moving of downtown Oslo in the near future.
-
-<iframe src="https://goo.gl/maps/a5w6m8fnt4hD2tcH7" width="600" height="450" frameborder="0" style="border:0"></iframe>
+We are located just outside Oslo, the capital of Norway at a place called Fornebu, but we plan to move to downtown Oslo in the near future.
