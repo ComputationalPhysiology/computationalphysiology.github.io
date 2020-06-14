@@ -1,0 +1,11 @@
+name: comphy-site
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - sphinx
+  - pip
+  - pip:
+      - jupyter-book>=0.7.0b
+      - jupytext
