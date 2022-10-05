@@ -1,31 +1,34 @@
-#######################################################################################
 # Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
 title: Computational Physiology
 author: Henrik Finsberg
-logo: "_static/simula_main_rgb.png"
+logo: "_static/logo.png"
+copyright: "2022"
+-description: The Computational Physiology (ComPhy) department at Simula Research Laboratory is an integrated team of researchers working to develop cutting edge biological simulation tools.
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: cache
 
 # Information about where the book exists on the web
-description: >-
-  The Computational Physiology (ComPhy) department at Simula Research Laboratory is an integrated team of researchers working to develop cutting edge biological simulation tools.
+repository:
+  url: https://github.com/ComputationalPhysiology/computationalphysiology.github.io # Online location of your book
 
-#######################################################################################
-# HTML-specific settings
 html:
-  home_page_in_navbar: true
-  use_issues_button: false
+  use_issues_button: true
+  use_repository_button: true
   extra_navbar: See more at <a href="https://www.simula.no/research/projects/department-computational-physiology">simula.no</a>
 
-# #######################################################################################
-# Interact link settings
-notebook_interface: "notebook"
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - dollarmath
+    - linkify
 
-#######################################################################################
-# Launch button settings
-repository:
-  url: https://github.com/ComputationalPhysiology/computationalphysiology.github.io
-  path_to_book: "."
-
-latex:
-  latex_engine: "xelatex"
-  latex_documents:
-    targetname: book.tex
+sphinx:
+  extra_extensions:
+    - "sphinx.ext.autodoc"
+    - "sphinx.ext.napoleon"
+    - "sphinx.ext.viewcode"

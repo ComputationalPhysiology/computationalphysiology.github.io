@@ -1,4 +1,8 @@
-- file: content/about.md
-- file: content/contributing.md
-- file: content/projects.md
-- file: content/publications.md
+format: jb-book
+root: index
+
+chapters:
+  - file: about.md
+  - file: reproducibility
+  - file: projects.md
+  - file: publications.md

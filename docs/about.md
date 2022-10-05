@@ -1,4 +1,4 @@
-# Computational Physiology at Simula Research Laboratory
+# About
 
 In recent years, modeling and simulation of biophysical phenomena has matured in both scope and methodology, such that it can contribute significantly to the present understanding of physiology and disease. The Computational Physiology (ComPhy) department at Simula is an integrated team of researchers working to develop cutting edge biological simulation tools. The group collaborates closely with both experimentalists and clinicians around the world to drive basic research and promote innovation.
 
@@ -20,6 +20,6 @@ Some other sites that are of relevance:
 
 We also have our own channel at [anaconda](https://anaconda.org/ComPhy)
 
-## Where are we located
+## More info
 
-We are located just outside Oslo, the capital of Norway at a place called Fornebu, but we plan to move to downtown Oslo in the near future.
+For more info about Simula, please checkout the [simula web page](https://www.simula.no)
