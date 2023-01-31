@@ -16,7 +16,7 @@ The Computational Physiology (ComPhy) department at Simula Research Laboratory i
 
 Some other sites that are of relevance:
 
-- [https://github.com/kvslab](https://github.com/kvslab)
+- [KVSLab](https://kvslab.github.io/)
 
 We also have our own channel at [anaconda](https://anaconda.org/ComPhy)
 
