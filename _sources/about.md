@@ -6,6 +6,14 @@ A particular strength of the ComPhy group is a diverse set of backgrounds and sk
 
 Current projects include the development of robust and accurate simulators for the electrical and mechanical behavior of heart tissue, flow models of the cardiovascular system and fluid structure interactions, as well as investigation of the role of cellular and tissue structure and function in excitable tissue.
 
+
+```{figure} _static/group.jpg
+---
+name: group
+---
+ComPhy retreat February 2023 at [Lysebu](https://lysebu.no)
+```
+
 ## Software
 
 The Computational Physiology (ComPhy) department at Simula Research Laboratory is an integrated team of researchers working to develop cutting edge biological simulation tools. We have strong believe that in open science and try to share as much as we can of the tools that we develop. You can see some of the code that we have developed in the following repositories:
