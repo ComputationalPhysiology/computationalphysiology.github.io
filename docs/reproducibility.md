@@ -1,4 +1,4 @@
-## Making reproducible research
+# Making reproducible research
 
 Whenever you write code in your research, whether it a full blown software library or just code for running experiments you should always think about reproducibility. Please check out [The Turing Way](https://the-turing-way.netlify.app/welcome) which contains a comprehensive guide.
 
