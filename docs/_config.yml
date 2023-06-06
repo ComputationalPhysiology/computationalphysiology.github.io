@@ -4,7 +4,7 @@
 title: Computational Physiology
 author: Henrik Finsberg
 logo: "_static/logo.png"
-copyright: "2022"
+copyright: "2023"
 -description: The Computational Physiology (ComPhy) department at Simula Research Laboratory is an integrated team of researchers working to develop cutting edge biological simulation tools.
 
 # Force re-execution of notebooks on each build.
