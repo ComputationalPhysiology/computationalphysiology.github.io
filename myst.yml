@@ -20,13 +20,13 @@ project:
     - title: Projects
       children:
         - file: projects/index.md
-        - file: projects/brain_fluid.md
+        - file: projects/project_brain_fluid.md
 
     - title: Software Packages
       children:
         - file: software/index.md
-        - file: software/pulse.md
-        - file: software/beat.md
+        - file: software/software_pulse.md
+        - file: software/software_beat.md
 
 
 site:
