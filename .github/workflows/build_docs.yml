@@ -1,0 +1,36 @@
+name: Build documentation
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_call:
+  workflow_dispatch:
+
+
+jobs:
+
+  build:
+    runs-on: ubuntu-24.04
+    env:
+      PUBLISH_DIR: ./docs/_build/html
+
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python3 -m pip install .
+
+      - name: Build docs
+        run: myst build --html
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ env.PUBLISH_DIR }}

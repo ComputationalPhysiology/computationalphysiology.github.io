@@ -1,0 +1,39 @@
+name: Need help
+description: Add information about what type of help you need
+title: "[Help needed]: "
+labels: ["help-needed"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The research engineers are are to help you. We will try to respond as quickly as possible
+
+  - type: input
+    id: description
+    attributes:
+      label: Title
+      description: Add a title that described what you need help with
+      placeholder: Need help with setting up Binder
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Add link to repository
+      placeholder: https://github.com/SVMTK/SVMTK
+    validations:
+      required: true
+
+  - type: textarea
+    id: bib
+    attributes:
+      label: Details
+      description: Add more information about what you have tried and what is not working
+      render: tex
+      placeholder: |
+        I tried to set up Binder, but Binder is failing to build my environment
+    validations:
+      required: true

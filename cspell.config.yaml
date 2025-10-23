@@ -1,0 +1,11 @@
+dictionaryDefinitions:
+  - name: scientific-computing
+    path: .cspell_dict.txt
+    addWords: true
+dictionaries:
+  - scientific-computing
+ignoreWords: [
+    tableofcontents,
+    ipynb,
+    oneline
+  ]

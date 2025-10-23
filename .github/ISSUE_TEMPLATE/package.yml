@@ -1,0 +1,61 @@
+name: Add new package
+description: Add information regarding a new software package
+title: "[Add package]: "
+labels: ["new-package"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+
+  - type: input
+    id: description
+    attributes:
+      label: Title
+      description: Add title of package
+      placeholder: Surface Volume Meshing ToolKit
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Add link to repository
+      placeholder: https://github.com/SVMTK/SVMTK
+    validations:
+      required: true
+
+  - type: input
+    id: label
+    attributes:
+      label: Label
+      description: Add label (see https://scientificcomputing.github.io/packages.html for existing labels)
+      placeholder: Brain
+    validations:
+      required: true
+
+  - type: textarea
+    id: bib
+    attributes:
+      label: Bibliography
+      description: Add the reference for your package in (.bib) format
+      render: tex
+      placeholder: |
+        @Inbook{Valnes2022,
+          author="Mardal, Kent-Andr{\'e}
+          and Rognes, Marie E.
+          and Thompson, Travis B.
+          and Valnes, Lars Magnus",
+          title={{Getting started: from T1 images to simulation}},
+          bookTitle={{Mathematical Modeling of the Human Brain: From Magnetic Resonance Images to Finite Element Simulation}},
+          year="2022",
+          publisher={{Springer International Publishing}},
+          address="Cham",
+          pages="23--46",
+          isbn="978-3-030-95136-8",
+          doi="10.1007/978-3-030-95136-8_3"
+        }
+    validations:
+      required: false

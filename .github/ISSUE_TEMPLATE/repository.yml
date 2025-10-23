@@ -1,0 +1,49 @@
+name: Add new repository
+description: Add information regarding a new repository related to a paper
+title: "[Add repo]: "
+labels: ["new-repo"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+
+  - type: input
+    id: description
+    attributes:
+      label: Title
+      description: Add title of repository
+      placeholder: Multi-compartmental model of glymphatic clearance of solutes in brain tissue
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Add link to repository
+      placeholder: https://github.com/jorgenriseth/multicompartment-solute-transport
+    validations:
+      required: true
+
+  - type: textarea
+    id: bib
+    attributes:
+      label: Bibliography
+      description: Add the reference for your paper in (.bib) format
+      render: tex
+      placeholder: |
+        @unpublished{poulain2022,
+          TITLE = {{Multi-compartmental model of glymphatic clearance of solutes in brain tissue}},
+          AUTHOR = {Poulain, Alexandre and Riseth, J{{\o}}rgen and Vinje, Vegard},
+          URL = {https://hal.archives-ouvertes.fr/hal-03789563},
+          NOTE = {working paper or preprint},
+          YEAR = {2022},
+          MONTH = Sep,
+          PDF = {https://hal.archives-ouvertes.fr/hal-03789563/file/multicompartment-glymphatics.pdf},
+          HAL_ID = {hal-03789563},
+          HAL_VERSION = {v1},
+        }
+    validations:
+      required: true

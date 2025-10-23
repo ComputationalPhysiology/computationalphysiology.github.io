@@ -1,0 +1,43 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 928901dc-2f1f-4ee4-8985-b7c78d5c176b
+  description:  The Computational Physiology (ComPhy) department at Simula Research Laboratory is an integrated team of researchers working to develop cutting edge biological simulation tools.
+  keywords:
+    - Scientific Computing
+    - Computational Physiology
+    - Numerical Analysis
+    - High Performance Computing
+    - Simulation
+    - Cardiac Modelling
+
+  github: https://github.com/ComputationalPhysiology/computationalphysiology.github.io
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: README.md
+    - file: about.md
+
+    - title: Projects
+      children:
+        - file: projects/index.md
+        - file: projects/brain_fluid.md
+
+    - title: Software Packages
+      children:
+        - file: software/index.md
+        - file: software/pulse.md
+        - file: software/beat.md
+
+
+site:
+  template: book-theme
+  nav:
+    - title: Reproducible Research
+      url: https://scientificcomputing.github.io
+    - title: ComPhy @ Simula
+      url: https://www.simula.no/research/research-departments/computational-physiology
+
+  options:
+    favicon: _static/favicon.ico
+    logo: _static/logo.png
+    logo_dark: _static/logo.png
