@@ -21,6 +21,7 @@ project:
       children:
         - file: projects/index.md
         - file: projects/project_brain_fluid.md
+        - file: projects/project_procardio.md
 
     - title: Software Packages
       children:
@@ -28,6 +29,13 @@ project:
         - file: software/software_pulse.md
         - file: software/software_beat.md
 
+    - title: Resources
+      children:
+        - file: resources/awesome_list.md
+
+    - title: People
+      children:
+        - file: people/nick.md
 
 site:
   template: book-theme
