@@ -23,7 +23,8 @@ Head of Department
 :alt: Henrik Finsberg
 :align: left
 :::
-Chief Research Engineer
+Chief Research Engineer <br >
+[![Simula](_static/favicon.ico)](https://www.simula.no/people/henriknf)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?&user=NDPIHoEAAAAJ)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/finsberg)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrik-finsberg-51664b53/)
