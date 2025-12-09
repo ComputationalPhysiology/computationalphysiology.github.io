@@ -1,4 +1,4 @@
-# The K.G. Jebsen Centre for Brain Fluid Researc
+# The K.G. Jebsen Centre for Brain Fluid Research
 
 The K.G. Jebsen Centre for Brain Fluid Research, led by Professor Per Kristian Eide from the University of Oslo and Deputy Director Marie E. Rognes from Simula, is a collaborative initiative hosted by the University of Oslo and Oslo University Hospital, with Simula as a major partner. The center aims to translate a decade of groundbreaking research in mathematical sciences and basic neurosciences into clinical medicine, focusing on new diagnostics and therapies for dementia and brain cancer.
 

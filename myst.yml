@@ -19,14 +19,15 @@ project:
 
     - title: Projects
       children:
-        - file: projects/index.md
         - file: projects/project_brain_fluid.md
+        - file: projects/project_procardio.md
 
-    - title: Software Packages
+    - title: People
       children:
-        - file: software/index.md
-        - file: software/software_pulse.md
-        - file: software/software_beat.md
+        - file: people/people_nick.md
+        - file: people/people_henrik.md
+
+    - file: CONTRIBUTING.md
 
 
 site:
