@@ -5,7 +5,7 @@
 :::::{grid} 1 1 2 3
 
 ::::{card}
-:header: [Hermenegild Arevalo](./hermenegild.md)
+:header: Hermenegild Arevalo
 
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F41225-3-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: HermenegildArevalo
@@ -17,7 +17,7 @@ Head of Department
 ::::
 
 ::::{card}
-:header: [Henrik Finsberg](./henrik.md)
+:header: Henrik Finsberg
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F41028-4-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: HenrikFinsberg
 :alt: Henrik Finsberg
@@ -32,7 +32,7 @@ Chief Research Engineer
 
 
 ::::{card}
-:header: [Nicolas Forsch](./nick.md)
+:header: Nicolas Forsch
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F42345-2-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: NicolasForsch
 :alt: Nicolas Forsch
@@ -43,7 +43,7 @@ Research Engineer
 
 
 ::::{card}
-:header: [Karoline Horgmo Jæger](./karolinemd)
+:header: Karoline Horgmo Jæger
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F40943-1-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: KarolineHorgmoJaeger
 :alt: Karoline Horgmo Jæger
@@ -54,7 +54,7 @@ Senior Research Scientist
 
 
 ::::{card}
-:header: [Glenn Terje Lines](./glenn.md)
+:header: Glenn Terje Lines
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F40683-2-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: GlennTerjeLines
 :alt: Glenn Terje Lines
@@ -64,7 +64,7 @@ Senior Research Scientist
 ::::
 
 ::::{card}
-:header: [Molly Maleckar](./molly.md)
+:header: Molly Maleckar
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F40755-2-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: MollyMaleckar
 :alt: Molly Maleckar
@@ -75,7 +75,7 @@ Research Professor
 
 
 ::::{card}
-:header: [Andy Edwards](./andy.md)
+:header: Andy Edwards
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F40938-2-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: AndyEdwards
 :alt: Andy Edwards
@@ -86,7 +86,7 @@ Chief Research Scientist
 
 
 ::::{card}
-:header: [Joakim Sundnes](./joakim.md)
+:header: Joakim Sundnes
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F40816-4-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: JoakimSundnes
 :alt: Joakim Sundnes
@@ -97,7 +97,7 @@ Director of Scientific Computing
 ::::
 
 ::::{card}
-:header: [Kimberly McCabe](./kim.md)
+:header: Kimberly McCabe
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F41552-1-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: KimberlyMcCabe
 :alt: Kimberly McCabe
@@ -107,7 +107,7 @@ Chief Research Scientist
 ::::
 
 ::::{card}
-:header: [Giulia Monopoli](./giulia.md)
+:header: Giulia Monopoli
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F42913-1-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: GiuliaMonopoli
 :alt: Giulia Monopoli
@@ -118,7 +118,7 @@ PhD Student
 
 
 ::::{card}
-:header: [Karl Munthe](./karl.md)
+:header: Karl Munthe
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F43010-1-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: KarlMunthe
 :alt: Karl Munthe
@@ -128,7 +128,7 @@ PhD Student
 ::::
 
 ::::{card}
-:header: [Mohammad Javad Sadeghinia](./javad.md)
+:header: Mohammad Javad Sadeghinia
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F43008-2-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: Javad
 :alt: Javad
@@ -138,7 +138,7 @@ Postdoctoral Fellow
 ::::
 
 ::::{card}
-:header: [Aslak Tveito](./aslak.md)
+:header: Aslak Tveito
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F40643-5-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: AslakTveito
 :alt: Aslak Tveito
@@ -149,7 +149,7 @@ Professor
 ::::
 
 ::::{card}
-:header: [Habib Ur Rehmaan](./habib.md)
+:header: Habib Ur Rehmaan
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F43252-3-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: HabibUrRehmaan
 :alt: Habib Ur Rehmaan
@@ -159,7 +159,7 @@ PhD Student
 ::::
 
 ::::{card}
-:header: [Kristian Valen-Senstad](./kvs.md)
+:header: Kristian Valen-Senstad
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F40732-2-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: KristianValenSenstad
 :alt: Kristian Valen-Senstad
@@ -169,7 +169,7 @@ Chief Research Scientist
 ::::
 
 ::::{card}
-:header: [Samuel Wall](./sam.md)
+:header: Samuel Wall
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F40799-2-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: SamuelWall
 :alt: Samuel Wall
@@ -180,7 +180,7 @@ Chief Research Scientist
 
 
 ::::{card}
-:header: [Daniel Steeneveldt](./daniel.md)
+:header: Daniel Steeneveldt
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F43212-0-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
 :label: DanielSteeneveldt
 :alt: Daniel Steeneveldt
