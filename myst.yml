@@ -16,15 +16,11 @@ project:
   toc:
     - file: site/index.md
     - file: site/about.md
-
     - file: site/projects/index.md
-    - file: site/people/index.md
-    - file: site/software/index.md
+    - file: site/publications.md
+    - file: site/people.md
+    - file: site/software.md
     - file: CONTRIBUTING.md
-
-    - file: site/resources/awesome_list.md
-
-
 
 site:
   template: book-theme
@@ -33,6 +29,8 @@ site:
       url: https://scientificcomputing.github.io
     - title: ComPhy @ Simula
       url: https://www.simula.no/research/research-departments/computational-physiology
+    - title: GitHub organization
+      url: https://github.com/ComputationalPhysiology
 
   options:
     favicon: site/_static/favicon.ico

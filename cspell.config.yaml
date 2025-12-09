@@ -1,9 +1,9 @@
 dictionaryDefinitions:
-  - name: scientific-computing
+  - name: comphy
     path: .cspell_dict.txt
     addWords: true
 dictionaries:
-  - scientific-computing
+  - comphy
 ignoreWords: [
     tableofcontents,
     ipynb,

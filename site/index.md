@@ -15,11 +15,26 @@ Targeted application of these tools to derive mechanistic insights into diverse 
 
 The central research focus of the ComPhy department is on biophysical models of the heart. Our modeling efforts address a wide spectrum of scales, from the investigation of intricate subcellular phenomena to organ-level analysis informed by clinical data.
 
-## People
-Meet the [team](site/people/index.md) at deparment computational physiology.
+::::{grid} 1 1 2 2
 
-## Projects
+:::{card}
+:header: People 👩‍🔬👨‍🔬
+Meet the [team](site/people/index.md) at our department.
+:::
+
+:::{card}
+:header: Projects 📂
 Explore our ongoing [projects](site/projects/index.md).
+:::
 
-## Software
-Discover the [software](site/software/index.md) developed by our department.
+:::{card}
+:header: Publications 📚
+Discover the [publications](site/publications.md) from our department.
+:::
+
+:::{card}
+:header: Software 💻
+Discover the [software](site/software.md) developed by our department.
+:::
+
+::::
