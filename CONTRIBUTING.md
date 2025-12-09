@@ -73,7 +73,11 @@ Now, the pre-commit hooks will run automatically when you make the commit. If ev
 
 ## Step 7: Push your changes and make a pull request
 
-Now you are ready to push your changes to GitHub, but before doing that it is a good idea to check the webpage locally again to make sure that everything looks fine.
+Now you are ready to push your changes to GitHub, but before doing that it is a good idea to check the webpage locally again to make sure that everything looks fine and that all links are working. You can do this by executing
+
+```bash
+myst build --html --strict --check-links
+```
 
 To push your changes, use the command
 ```bash
