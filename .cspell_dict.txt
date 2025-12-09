@@ -121,6 +121,7 @@ scientificcomputing
 scifem
 Senstad
 Simcardems
+Simcardio
 Simula
 Stankelbein
 Steeneveldt

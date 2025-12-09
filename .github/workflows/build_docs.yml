@@ -28,7 +28,7 @@ jobs:
         run: python3 -m pip install -r requirements.txt
 
       - name: Build docs
-        run: myst build --html
+        run: myst build --html --check-links --strict
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
