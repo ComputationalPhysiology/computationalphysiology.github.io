@@ -29,6 +29,13 @@ project:
 
     - file: CONTRIBUTING.md
 
+    - title: Resources
+      children:
+        - file: resources/awesome_list.md
+
+    - title: People
+      children:
+        - file: people/nick.md
 
 site:
   template: book-theme
