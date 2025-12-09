@@ -1,13 +1,13 @@
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
+    rev: v6.0.0
     hooks:
       - id: check-yaml
       - id: end-of-file-fixer
       - id: trailing-whitespace
 
   - repo: https://github.com/streetsidesoftware/cspell-cli
-    rev: v8.17.0
+    rev: v9.3.3
     hooks:
       - id: cspell
         files: docs/(.+).md|README.md
@@ -15,4 +15,5 @@ repos:
     rev: v1.14.0 # see changelog for latest version
     hooks:
     -   id: bibtex-tidy
+        files: references.bib
         args: ['--sort', '--merge'] # any other settings
