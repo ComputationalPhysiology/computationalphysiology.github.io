@@ -14,19 +14,6 @@ name: group
 ComPhy retreat February 2023 at [Lysebu](https://lysebu.no)
 ```
 
-## Software
-
-The Computational Physiology (ComPhy) department at Simula Research Laboratory is an integrated team of researchers working to develop cutting edge biological simulation tools. We have strong believe that in open science and try to share as much as we can of the tools that we develop. You can see some of the code that we have developed in the following repositories:
-
-- [GitHub](https://github.com/ComputationalPhysiology)
-
-- [Bitbucket](https://bitbucket.org/simula-camo/)
-
-Some other sites that are of relevance:
-
-- [KVSLab](https://kvslab.github.io/)
-
-We also have our own channel at [anaconda](https://anaconda.org/ComPhy)
 
 ## More info
 
