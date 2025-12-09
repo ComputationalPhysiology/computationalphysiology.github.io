@@ -19,22 +19,22 @@ The central research focus of the ComPhy department is on biophysical models of 
 
 :::{card}
 :header: People 👩‍🔬👨‍🔬
-Meet the [team](site/people/index.md) at our department.
+Meet the [team](people.md) at our department.
 :::
 
 :::{card}
 :header: Projects 📂
-Explore our ongoing [projects](site/projects/index.md).
+Explore our ongoing [projects](projects/index.md).
 :::
 
 :::{card}
 :header: Publications 📚
-Discover the [publications](site/publications.md) from our department.
+Discover the [publications](publications.md) from our department.
 :::
 
 :::{card}
 :header: Software 💻
-Discover the [software](site/software.md) developed by our department.
+Discover the [software](software.md) developed by our department.
 :::
 
 ::::
