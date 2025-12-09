@@ -1,5 +1,91 @@
 # Contributing
 
+
+## Step 1: Cloning the repository
+If you are part of the Computational Physiology organization on GitHub, you can directly clone the repository using SSH.
+- If you do not have a GitHub account, you can create one for free at [GitHub](https://github.com/signup)
+- If you are not part of the Computational Physiology organization you can either request access to the organization by contacting Henrik Finsberg or you can fork the repository to your own GitHub account and clone
+
+If you have trouble with cloning the repository using SSH, please checkout the GitHub documentation on [connecting to GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
+
+You can clone the repository using the command
+```bash
+git clone git@github.com:ComputationalPhysiology/computationalphysiology.github.io.git
+```
+(Please do not download the repository as a zip-file, and upload files through the GitHub web-interface😊)
+
+## Step 2: Make sure you can build the webpage locally
+
+After cloning the repository, navigate to the root of the repository and make sure that you can build the webpage locally. This is done using `myst` which is a tool for building static webpages from markdown files. First create a python virtual environment and install the dependencies using
+
+```bash
+python3 -m venv venv
+. ./venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
+Now you can type
+```bash
+myst start
+```
+to build the webpage locally. This will also start a local web server that you can use to inspect the webpage (usually the site will be available at `http://localhost:3000`). You can just keep the terminal with `myst start` running while you are making changes to the repository, and the webpage will automatically update when you save changes to the files.
+
+
+## Step 3: Create a branch
+
+If you have `myst` running in the terminal, then open a new terminal window, navigate to the root of the repository and create a new branch for your changes. You can create a new branch using the command
+
+```bash
+git checkout -b name_of_author/describe_feature
+```
+
+## Step 4: Make your changes
+
+Make the changes you want to the repository. You can add new markdown files in the `site/` folder, and you can edit existing files. Make sure to update the Table of Contents in `myst.yml` if you are adding new pages.
+
+## Step 5: Install the pre-commit hooks
+
+Before you commit your changes, it is recommended to install the pre-commit hooks to make sure that your code is following the style guide of the repository. You can install the pre-commit hooks by first install `pre-commit`
+
+```bash
+python3 -m pip install pre-commit
+```
+and then install the pre-commit hooks using the command
+```bash
+pre-commit install
+```
+at the root of the repository. This will install all the hooks listed in the file called `.pre-commit-config.yaml` in the root of the repository.
+
+## Step 6: Commit your changes
+When you are done with your changes, you can commit them using git. First, add the changed files using
+
+```bash
+git add path/to/changed_file1 path/to/changed_file2
+```
+
+Then, commit the changes using
+
+```bash
+git commit -m "Describe the changes you have made"
+```
+
+Now, the pre-commit hooks will run automatically when you make the commit. If everything is fine, the commit will be made. If there are any issues with the style of your code, the pre-commit hooks will try to fix them automatically, so if the pre-commit hooks fail, just do a `git add` again for the changed files and then redo the `git commit`. If the pre-commit hooks are not able to fix all issues automatically, they will print out what issues are remaining, and you need to fix them manually.
+
+## Step 7: Push your changes and make a pull request
+
+Now you are ready to push your changes to GitHub, but before doing that it is a good idea to check the webpage locally again to make sure that everything looks fine.
+
+To push your changes, use the command
+```bash
+git push origin name_of_author/describe_feature
+```
+
+Now navigate to the GitHub repository in your web browser, and you should see a button to create a pull request for your branch. Click on that button and fill in the necessary information about the changes you have made. Once you have created the pull request, you can request a review from one of the maintainers of the repository. Note that you can still make changes and push them to your branch, and the pull request will be updated automatically.
+
+## General Resources
+
+Below you find some general guidelines for contributing to the repository.
+
 When contributing to this repository, please first [create an issue](https://github.com/computationalphysiology/computationalphysiology.github.io/issues/new/choose) containing information about the missing feature or the bug that you would like to fix. Here you can discuss the change you want to make with the maintainers of the repository.
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.

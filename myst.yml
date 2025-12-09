@@ -14,28 +14,17 @@ project:
   github: https://github.com/ComputationalPhysiology/computationalphysiology.github.io
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
-    - file: README.md
-    - file: about.md
+    - file: site/index.md
+    - file: site/about.md
 
-    - title: Projects
-      children:
-        - file: projects/index.md
-        - file: projects/project_brain_fluid.md
-        - file: projects/project_procardio.md
+    - file: site/projects/index.md
+    - file: site/people/index.md
+    - file: site/software/index.md
+    - file: CONTRIBUTING.md
 
-    - title: Software Packages
-      children:
-        - file: software/index.md
-        - file: software/software_pulse.md
-        - file: software/software_beat.md
+    - file: site/resources/awesome_list.md
 
-    - title: Resources
-      children:
-        - file: resources/awesome_list.md
 
-    - title: People
-      children:
-        - file: people/nick.md
 
 site:
   template: book-theme
@@ -46,6 +35,7 @@ site:
       url: https://www.simula.no/research/research-departments/computational-physiology
 
   options:
-    favicon: _static/favicon.ico
-    logo: _static/logo.png
-    logo_dark: _static/logo.png
+    favicon: site/_static/favicon.ico
+    logo: site/_static/logo.png
+    logo_dark: site/_static/logo.png
+    folders: true
