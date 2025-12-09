@@ -9,3 +9,7 @@ Simula will lead the center's computational and translational mathematics activi
 The consortium consists of clinical scientists in neuro-medicine and dementia, neuroimaging scientists in radiology, medical physics, and nuclear medicine, basic neuroscientists specializing in in vivo rodent imaging, and experts in mathematics, pharmacokinetic modeling, and statistics. This interdisciplinary group has been at the forefront of international research, pioneering novel human imaging techniques for brain-wide extravascular solute transport and blood-based biomarkers of cerebrospinal fluid-to-blood clearance.
 
 The K.G. Jebsen Centre for Brain Fluid Research consolidates this unique interdisciplinary research group to further bridge the gap between basic and clinical neuroscience. The vision of the center is to usher in a new era of translational brain fluid research, fostering significant breakthroughs in the diagnostics and treatment of a wide range of brain diseases, including neurodegenerative and neuro-inflammatory diseases, brain cancer, and cerebral bleeds.
+
+
+## Affiliated team members at ComPhy
+- Henrik Finsberg
