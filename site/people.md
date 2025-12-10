@@ -38,7 +38,10 @@ Chief Research Engineer <br >
 :alt: Nickolas Forsch
 :align: left
 :::
-Research Engineer
+Research Engineer <br >
+[![Simula](https://img.shields.io/badge/Simula-orange)](https://www.simula.no/people/nick)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=googlescholar)](https://scholar.google.com/citations?user=kEriM0IAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/github-gray?logo=github)](https://github.com/nforsch)
 ::::
 
 
