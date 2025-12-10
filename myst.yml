@@ -17,21 +17,21 @@ project:
     - file: site/index.md
     - file: site/about.md
     - file: site/projects/index.md
-      children:
-      - file: site/projects/hubmol.md
-        hidden: true
-      - file: site/projects/jebsen_brain_fluid.md
-        hidden: true
-      - file: site/projects/procardio.md
-        hidden: true
-      - file: site/projects/simcardiotest.md
-        hidden: true
-      - file: site/projects/identiphy.md
-        hidden: true
-      - file: site/projects/dynacomp.md
-        hidden: true
+      # children:
+      # - file: site/projects/hubmol.md
+      #   hidden: true
+      # - file: site/projects/jebsen_brain_fluid.md
+      #   hidden: true
+      # - file: site/projects/procardio.md
+      #   hidden: true
+      # - file: site/projects/simcardiotest.md
+      #   hidden: true
+      # - file: site/projects/identiphy.md
+      #   hidden: true
+      # - file: site/projects/dynacomp.md
+      #   hidden: true
 
-    - file: site/publications.md
+    #- file: site/publications.md
     - file: site/people.md
     - file: site/software.md
     - file: CONTRIBUTING.md
