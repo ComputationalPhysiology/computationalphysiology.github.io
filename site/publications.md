@@ -14,8 +14,7 @@ Here is a list of recent publications from the Computational Physiology Departme
 - [The sodium/glucose cotransporter 2 inhibitor Empagliflozin inhibits long QT 3 late sodium currents in a mutation specific manner](https://github.com/andygedwards/LQT3-SGLT2i) {cite}`LUNSONGA202599`
 - [Automatic motion estimation with applications to hiPSC-CMs](https://github.com/ComputationalPhysiology/automatic-motion-estimation) {cite}`10.1088/2057-1976/ad7268`
 - [A computational study of right ventricular mechanics in a rat model of pulmonary arterial hypertension](https://github.com/oscarodeigah/rv_pah_project) {cite}`odeigah2024computational`
-
-
+- Summer School in Computational Physiology: A Collaborative Course in Modeling Excitable Tissues {cite}`mccabe2024summer`
 
 
 ## 2018
