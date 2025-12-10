@@ -7,6 +7,7 @@ See more here: [ProCardio Center for Innovation](https://www.oslo-universitetssy
 
 ## Affiliated team members at ComPhy
 - Molly Maleckar
+- Hermenegild Arevalo
 - Samuel Wall
 - Nickolas Forsch
 - Giulia Monopoli

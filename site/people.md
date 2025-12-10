@@ -32,13 +32,16 @@ Chief Research Engineer <br >
 
 
 ::::{card}
-:header: Nicolas Forsch
+:header: Nickolas Forsch
 :::{image} https://www.simula.no/_next/image?url=https%3A%2F%2Fimages4.bamboohr.com%2F6513%2Fphotos%2F42345-2-4.jpg%3FPolicy%3DeyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbWFnZXM0LmJhbWJvb2hyLmNvbS82NTEzLyoiLCJDb25kaXRpb24iOnsiRGF0ZUdyZWF0ZXJUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjUyODQxNzl9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2Nzg3NjE4OX19fV19%26Signature%3Dgiq2agEHm3gEBmPC9COhOHGYK00wV4HjCSFR0yY3UMoV4XGDSm1nuZGlGVRUtuCvaq4tGIOVV9BOs2-ZGgMBF8lvqbAZsXIK7nUky0q1VTnR6y-g0IRwbL86KtRHMa2F4tkQ2Do482XWnpvxE0a2UgibRJus5hhzdBtmSb5gal4sUcBy1Ob6JNZkeLwhztANCfCq1UUQoLdXaUYqHHukr3~2pe-gTE85-QcW9NZuh0IJHi1XTEb~xGV5rdejzYHdPB3RCQKbHwZWc-ITGCc40IIdVbmouR7WihB4tbiBQtUYmdzXqCXAGeDgn6hwTn2F8193PaN97vVmYtbkVMVNIw__%26Key-Pair-Id%3DAPKAIZ7QQNDH4DJY7K4Q&w=256&q=75
-:label: NicolasForsch
-:alt: Nicolas Forsch
+:label: NickolasForsch
+:alt: Nickolas Forsch
 :align: left
 :::
-Research Engineer
+Research Engineer <br >
+[![Simula](https://img.shields.io/badge/Simula-orange)](https://www.simula.no/people/nick)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?logo=googlescholar)](https://scholar.google.com/citations?user=kEriM0IAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/github-gray?logo=github)](https://github.com/nforsch)
 ::::
 
 
