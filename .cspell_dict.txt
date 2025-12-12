@@ -12,6 +12,7 @@ biventricular
 brainpulse
 budisa
 Cabe
+cardiomyocyte
 CauseMann
 checkpointing
 cibuildwheel
@@ -50,6 +51,7 @@ Hermenegild
 Horgmo
 howpublished
 htmlcov
+hubmol
 Hustad
 idealised
 Identi
@@ -107,6 +109,7 @@ perivascular
 pharmacokinetic
 postprocess
 poulain
+PPCS
 Pycodestyle
 Pyflake
 pypi
