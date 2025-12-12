@@ -1,7 +1,6 @@
 # People
 
-## Current Members
-
+## PI
 :::::{grid} 1 1 2 3
 
 ::::{card}
@@ -15,6 +14,12 @@
 Chief Research Scientist <br >
 Head of Department
 ::::
+:::::
+
+
+## Team Members
+
+:::::{grid} 1 1 2 3
 
 ::::{card}
 :header: Henrik Finsberg

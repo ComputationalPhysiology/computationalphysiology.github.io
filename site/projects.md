@@ -26,11 +26,11 @@ Read more about the project [here](https://uit.no/research/hubmol).
 
 
 ::::{card}
-:header: HubMOL
+:header: ProCardio Center for Innovation
 
 :::{image} https://avatars.githubusercontent.com/u/85938771?s=200&v=4
-:label: hubmol
-:alt: HubMOL Logo
+:label: procardio
+:alt: ProCardio Logo
 :height: 100px
 :class: "float: left; margin-right: 20px;"
 :align: left
